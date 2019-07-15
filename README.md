@@ -1,7 +1,5 @@
 #simpleproject
 number list
 first
-second
+second 
 third
-four
-five
